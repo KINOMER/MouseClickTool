@@ -7,4 +7,4 @@
 ## 下载 (注意：需要右键以管理员身份运行，不然可能控制不了鼠标)
 [本地下载](https://github.com/iamverylovely/MouseClickTool/releases/download/1.0/MouseClickTool-x64.zip)
 
-[备用下载](https://iamverylovely.com/opensource/MouseClickTool.zip)
+[备用下载](https://iamverylovely.com/opensource/MouseClickTool.zip?v=1.0)
